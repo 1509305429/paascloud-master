@@ -1,0 +1,17 @@
+E:\workspaces\github\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\constant\UacConstant.java
+E:\workspaces\github\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\ForgetCheckAnswerDto.java
+E:\workspaces\github\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\IdStatusDto.java
+E:\workspaces\github\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\LoginReqDto.java
+E:\workspaces\github\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\UserInfoDto.java
+E:\workspaces\github\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\service\UacMqMessageFeignApi.java
+E:\workspaces\github\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\enums\UacGroupTypeEnum.java
+E:\workspaces\github\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\constant\UacApiConstant.java
+E:\workspaces\github\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\UserRegisterDto.java
+E:\workspaces\github\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\service\hystrix\UacUserTokenFeignApiHystrix.java
+E:\workspaces\github\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\service\UacUserTokenFeignApi.java
+E:\workspaces\github\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\service\hystrix\UacMqMessageApiHystrix.java
+E:\workspaces\github\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\ResetPasswordDto.java
+E:\workspaces\github\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\ForgetResetPasswordDto.java
+E:\workspaces\github\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\exceptions\UacBizException.java
+E:\workspaces\github\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\vo\MenuVo.java
+E:\workspaces\github\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\Perm.java
